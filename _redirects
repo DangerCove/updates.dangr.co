@@ -1,5 +1,5 @@
 com.dangercove.Pipvid.Mac/appcast.xml*        https://updates.devmate.com/com.dangercove.Pipvid.Mac.xml:splat                                         301
-com.dangercove.Pipvid.Mac/beta-appcast.xml*   https://updates.devmate.com/beta/com.dangercove.Pipvid.Mac.xml:splat                                    301
+com.dangercove.Pipvid.Mac/beta-appcast.xml*   https://api.appcenter.ms/v0.1/public/sparkle/apps/2782107c-7ab2-4d02-bc31-f2a1287a128a:splat            301
 com.dangercove.Pipvid.Mac/latest*             https://dl.devmate.com/com.dangercove.Pipvid.Mac/Pipvid.zip                                             301
 
 com.dangercove.Timeless.Mac/appcast.xml*      https://api.appcenter.ms/v0.1/public/sparkle/apps/a60660de-45e2-4934-ab55-4ae460776b89:splat            301
