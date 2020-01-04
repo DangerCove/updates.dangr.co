@@ -4,4 +4,4 @@ com.dangercove.Pipvid.Mac/latest*             https://rink.hockeyapp.net/api/2/a
 
 com.dangercove.Timeless.Mac/appcast.xml*      https://api.appcenter.ms/v0.1/public/sparkle/apps/a60660de-45e2-4934-ab55-4ae460776b89:splat            301
 com.dangercove.Timeless.Mac/beta-appcast.xml* https://api.appcenter.ms/v0.1/public/sparkle/apps/a60660de-45e2-4934-ab55-4ae460776b89:splat            301
-com.dangercove.Timeless.Mac/latest*           https://rink.hockeyapp.net/api/2/apps/a60660de45e24934ab554ae460776b89/app_versions/8?format=zip        301
+com.dangercove.Timeless.Mac/latest*           https://rink.hockeyapp.net/api/2/apps/a60660de45e24934ab554ae460776b89/app_versions/9?format=zip        301
