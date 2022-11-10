@@ -4,4 +4,4 @@ com.dangercove.Pipvid.Mac/latest*             https://install.appcenter.ms/users
 
 com.dangercove.Timeless.Mac/appcast.xml*      https://dangercove.github.io/timeless-updates/appcast.xml:splat                               301
 com.dangercove.Timeless.Mac/beta-appcast.xml* https://dangercove.github.io/timeless-updates/appcast.xml:splat                               301
-com.dangercove.Timeless.Mac/latest*           https://github.com/DangerCove/timeless-updates/releases/download/v2022.1b41/Timeless-v2022.1b41.zip:splat   301
+com.dangercove.Timeless.Mac/latest*           https://github.com/DangerCove/timeless-updates/releases/latest/download/Timeless.zip:splat    301
